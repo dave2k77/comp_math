@@ -9,5 +9,6 @@ The notebooks and python scripts here follow from the A-Level Mathematics lesson
 1. [Rational Functions and their graphs](https://github.com/dave2k77/comp_math/blob/main/Rational%20Functions%20and%20their%20Graph.ipynb)
 2. [Nonlinear Functions 1](https://github.com/dave2k77/comp_math/blob/main/NonlinearFunctions-1.ipynb)
 3. [Nonlinear Functions 2](https://github.com/dave2k77/comp_math/blob/main/NonlinearFunctions-2.ipynb)
-4. [The Binomial Theorem](https://github.com/dave2k77/comp_math/blob/main/NonlinearFunctions-1.ipynb)
-5. Implementing and testing functions arising in the binomial theorem
+4. [The Binomial Theorem](https://github.com/dave2k77/comp_math/blob/main/The_binomial_theorem.ipynb)
+5. [Implementing and testing functions arising in the binomial theorem](https://github.com/dave2k77/comp_math/blob/main/binomial.py)
+6. [Statistical Analysis](https://github.com/dave2k77/comp_math/blob/main/statistical_analysis.ipynb)
