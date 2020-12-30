@@ -6,4 +6,8 @@ The notebooks and python scripts here follow from the A-Level Mathematics lesson
 
 **Lesson Titles**
 
-1. 
+1. Rational Functions and their graphs
+2. Nonlinear Functions 1
+3. Nonlinear Functions 2
+4. The Binomial Theorem
+5. Implementing and testing functions arising in the binomial theorem
